@@ -1,0 +1,28 @@
+{
+  "name": "Cretaceous",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+    "velociraptor": "assets/velociraptor.png"
+  },
+  "color_schemes": {
+    "Cretaceous": {
+      "primary": "e3e3e3",
+      "secondary": "313131",
+      "tertiary": "c70000",
+      "quaternary": "c70000",
+      "header_background": "505050",
+      "header_primary": "e3e3e3",
+      "highlight": "954e4e",
+      "danger": "ff6161",
+      "success": "61ffdd",
+      "love": "ffe45b"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}

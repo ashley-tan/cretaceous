@@ -1,0 +1,25 @@
+.main-link{
+    background-image: url($velociraptor);
+    background-repeat: no-repeat;
+    background-size: 30px;
+}
+
+div, p, li, ul, span, .title, .topic-excerpt {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 100;
+}
+
+.topic-list .views, .topic-list .posts, .list-controls .btn, .topic-list th, th.default, .topic-list, .d-button-label, .category-name, .select-kit .select-kit-header .selected-name {
+    font-family: 'Bungee Hairline', cursive;
+    color: white;
+}
+
+h1, h2, h3, .nav-pills>li, .nav-pills>li>a, #list-area .top-lists h2, #topic-title h1 a {
+    font-family: 'Bungee Inline', cursive;
+    color: #929292;
+    font-weight: 100;
+}
+
+.discourse-no-touch .btn:hover, .discourse-no-touch .btn.btn-hover {
+    background: #c70000;
+}
